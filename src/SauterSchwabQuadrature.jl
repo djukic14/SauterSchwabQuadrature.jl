@@ -22,6 +22,5 @@ export sauterschwab_parameterized, reorder
 include("sauterschwabintegral.jl")
 include("pulled_back_integrands.jl")
 include("reorder_vertices.jl")
-include("reorder_vertices_fast.jl")
 
 end
